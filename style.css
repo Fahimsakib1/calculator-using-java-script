@@ -1,0 +1,34 @@
+.calculator-main-div-w-75{
+    width: 725px;
+    height: 560px;
+    margin-bottom: 20px;
+}
+
+
+.button-hover:hover{
+    background-color: blue;
+}
+
+#result-screen{
+    width: 540px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.math-operator{
+    width: 140px;
+}
+
+.math-operator-button:hover{
+    background-color: rgb(102, 113, 231);
+}
+
+.math-operator-button{
+    width: 120px;
+}
+
+.answer-button{
+    width: 528px;
+    margin-left: 4px;
+}
